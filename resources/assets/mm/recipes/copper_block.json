@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "III",
+        "III",
+        "III"
+    ],
+    "key":
+    {
+        "I":{"item": "tutorialmod:item_copper_ingot"}
+    },
+    "result":
+    {
+        "item": "tutorialmod:copper_bronze",
+        "count": 1
+    }
+}
