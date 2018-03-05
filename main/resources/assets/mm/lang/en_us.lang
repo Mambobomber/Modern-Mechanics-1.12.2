@@ -1,14 +1,9 @@
         # ----- BLOCKS -----
-        tile.mm:block_silver.name=silver block
-        tile.mm:block_copper.name=copper block
-        tile.mm:block_tin.name=tin block
-        tile.mm:block_bronze.name=bronze block
+        tile.block_copper.name=copper block
 
         # ----- ITEMS  -----
-
-        item.mm:item_silver_ingot.name=silver ingot
+        
         item.ingot_copper.name=Copper Ingot
-        item.mm:item_tin_ingot.name=tin ingot
-        item.mm:item_bronze_ingot.name=bronze ingot
+
 
 
