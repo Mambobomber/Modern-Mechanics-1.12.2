@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mm",
+  "name": "Modern Mechanics",
+  "description": "this is a modern tech mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["mambobomber"],
+  "credits": "the work of mambobomber",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
